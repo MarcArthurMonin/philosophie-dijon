@@ -22,3 +22,6 @@ Podcasts
 
 Vidéos
 ---
+La chaîne YouTube "Rien ne veut rien dire"
+
+https://www.youtube.com/channel/UCPCaREz-JoiSmpfMih3IlIA
