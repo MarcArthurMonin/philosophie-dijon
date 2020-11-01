@@ -13,6 +13,10 @@ Encyclopédie philosophique en anglais, contient près de 1600 articles rédigé
 
 https://plato.stanford.edu/index.html
 
+Library Genesis est un moteur de recherche d'articles et livres scientifiques qui facilite l'accès aux contenus soumis à un péage.
+
+http://libgen.rs/
+
 Podcasts
 ---
 
